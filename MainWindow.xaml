@@ -1,0 +1,20 @@
+﻿<Window x:Class="R_III_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:R_III_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="content" HorizontalAlignment="Left" Height="93" Margin="92,10,0,0" VerticalAlignment="Top" Width="603" Source="/Content/Banner.jpg" Stretch="Fill"/>
+        <Button x:Name="homeBtn" Content="Home" HorizontalAlignment="Left" Height="24" Margin="92,103,0,0" VerticalAlignment="Top" Width="201" Click="HomeBtn_Click"/>
+        <Button x:Name="infoBtn" Content="Info" HorizontalAlignment="Left" Height="24" Margin="494,103,0,0" VerticalAlignment="Top" Width="201" Click="InfoBtn_Click"/>
+        <Button x:Name="billsBtn" Content="Rachunki" HorizontalAlignment="Left" Height="24" Margin="293,103,0,0" VerticalAlignment="Top" Width="201" Click="BillsBtn_Click"/>
+        <Button x:Name="addNewBillBtn" Content="Dodaj rachunek" HorizontalAlignment="Left" Height="23" Margin="138,155,0,0" VerticalAlignment="Top" Width="102" Click="AddNewBillBtn_Click"/>
+        <Button x:Name="addNewInfoBtn" Content="Dodaj info" HorizontalAlignment="Left" Height="23" Margin="138,155,0,0" VerticalAlignment="Top" Width="102" Click="AddNewInfoBtn_Click"/>
+        <Label x:Name="welcomeLabel" Content="" HorizontalAlignment="Left" Height="212" Margin="92,187,0,0" VerticalAlignment="Top" Width="600"/>
+        <DataGrid x:Name="mainDataGrid" HorizontalAlignment="Left" Height="204" Margin="92,187,0,0" VerticalAlignment="Top" Width="603" SelectionChanged="mainDataGrid_SelectionChanged" MouseRightButtonUp="MainDataGrid_MouseRightButtonUp"/>
+
+    </Grid>
+</Window>

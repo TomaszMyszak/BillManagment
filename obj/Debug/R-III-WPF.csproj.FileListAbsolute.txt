@@ -1,0 +1,125 @@
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.exe.config
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.exe
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.pdb
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.dll
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.xml
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csprojAssemblyReference.cache
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\App.g.cs
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_Content.g.cs
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.cache
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.lref
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\MainWindow.baml
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.g.resources
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R_III_WPF.Properties.Resources.resources
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.GenerateResource.cache
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CoreCompileInputs.cache
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CopyComplete
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.exe
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.pdb
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\Unity.Abstractions.dll
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\Unity.Container.dll
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\Unity.Abstractions.pdb
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\bin\Debug\Unity.Container.pdb
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\Login.g.cs
+C:\Users\pawel.drozdz\source\repos\R-III-WPF\R-III-WPF\obj\Debug\Login.baml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csprojAssemblyReference.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\Login.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\App.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_Content.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.lref
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.exe
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.exe.config
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.exe
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\Unity.Abstractions.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\Unity.Container.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\Unity.Abstractions.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\bin\Debug\Unity.Container.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\Login.baml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\MainWindow.baml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.g.resources
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R_III_WPF.Properties.Resources.resources
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.GenerateResource.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CoreCompileInputs.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\R-III\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CopyComplete
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.exe.config
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.exe
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\R-III-WPF.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\Unity.Abstractions.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\Unity.Container.dll
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\Unity.Abstractions.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\bin\Debug\Unity.Container.pdb
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csprojAssemblyReference.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\Login.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\App.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_Content.g.cs
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.lref
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\Login.baml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\MainWindow.baml
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.g.resources
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R_III_WPF.Properties.Resources.resources
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.GenerateResource.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CoreCompileInputs.cache
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CopyComplete
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.exe
+C:\Users\pawel.drozdz\Desktop\PRIV\PROJEKT X\DONE\RIII\KOD\R-III-WPF\R-III-WPF\obj\Debug\R-III-WPF.pdb
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\R-III-WPF.exe.config
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\R-III-WPF.exe
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\R-III-WPF.pdb
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\EntityFramework.dll
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.dll
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\Unity.Abstractions.dll
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\Unity.Container.dll
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\EntityFramework.xml
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\EntityFramework.SqlServer.xml
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\Unity.Abstractions.pdb
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\bin\Debug\Unity.Container.pdb
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.AssemblyReference.cache
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\Login.g.cs
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\MainWindow.g.cs
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\App.g.cs
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF_Content.g.cs
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.cache
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF_MarkupCompile.lref
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\Login.baml
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\MainWindow.baml
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.g.resources
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R_III_WPF.Properties.Resources.resources
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.GenerateResource.cache
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CoreCompileInputs.cache
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.csproj.CopyComplete
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.exe
+G:\My Drive\Tomek\Programowanie Kursy\VC#\książki\programuj z .Net\programujNet\Rozdzial03\R3_WPF\R-III-WPF\obj\Debug\R-III-WPF.pdb

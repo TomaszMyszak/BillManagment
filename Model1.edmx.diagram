@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b39385c6f1734c0bae758ff707200c69" Name="Diagram1">
+        <EntityTypeShape EntityType="RIIIModel.Bill" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RIIIModel.Information" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="RIIIModel.Roles" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RIIIModel.Users" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RIIIModel.UsersRoles" Width="1.5" PointX="6" PointY="6.5" IsExpanded="true" />
+        <AssociationConnector Association="RIIIModel.FK__Bill__UserId__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="RIIIModel.FK__Informati__UserI__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="RIIIModel.FK__UsersRole__Roles__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="RIIIModel.FK__UsersRole__UserI__412EB0B6" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
